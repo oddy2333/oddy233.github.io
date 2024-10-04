@@ -7,7 +7,7 @@ name_pronunciation: Chuting Huang
 
 # Full name (for SEO)
 first_name:Chuting
-last_name: CHuang
+last_name:Huang
 
 # Status emoji
 status:
